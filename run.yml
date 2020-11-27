@@ -1,0 +1,7 @@
+- hosts: localhost
+  tasks:
+          - name: "create test file"
+            copy: 
+                dest: ~/test
+                content: "test"
+
