@@ -2,6 +2,6 @@
   tasks:
           - name: "create test file"
             copy: 
-                dest: ~/test
-                content: "test"
+                dest: ~/tes2t
+                content: "tes2t"
 
